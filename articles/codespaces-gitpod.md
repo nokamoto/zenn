@@ -6,7 +6,7 @@ topics: ["github", "gitpod", "codespaces"]
 published: true
 ---
 
-[GitHub InFocus 2022](https://resources.github.com/webcast/jp-github-infocus-2022) で Codespaces について話たけど話しきれなかったのと、 GitHub Codespaces が個人で使えるようになったのでそれぞれ使ってみて違いを感じた感想を書く。
+[GitHub InFocus 2022](https://resources.github.com/webcast/jp-github-infocus-2022) で Codespaces について話す機会があったけど話しきれなかったのと、 GitHub Codespaces が個人で使えるようになったのでそれぞれ使ってみて違いを感じた感想を書く。
 
 # まとめ
 
