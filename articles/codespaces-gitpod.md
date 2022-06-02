@@ -44,7 +44,7 @@ Prebuild 自体はどちらもあるが、個人の Codespaces だとリポジ�
 
 Gitpod の Extensions では [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) が検索しても出て来ない。
 
-# Others
+# その他
 
 実際に試していないけど違いを感じる部分としては、プライベートなネットワークへの接続がある。
 
